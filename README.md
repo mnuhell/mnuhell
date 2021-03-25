@@ -1,8 +1,11 @@
-### Hi, I'm Manuel Villagordo 👋
+## Hi, I'm Manuel Villagordo 👋
 
-### I'm 43 years old and 6 working with php and Mysql. 
+### :shushing_face: I'm 43 years old and 6 working with php and Mysql. 
 ### 🔭 I’m currently working on Telfy Telecom as php and mysql developer and I’m currently learning React, Node, TypeScript and Mongodb. :heart_eyes:
- 
+
+<hr />
+
+### If you think a project and need a developer contact with me 💬
 
 
 
