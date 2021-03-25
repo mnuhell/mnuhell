@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Manuel Villagordo 👋
+
+I'm 43 years old and 6 working with php and Mysql.
 
 <!--
 **mnuhell/mnuhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
