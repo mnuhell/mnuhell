@@ -1,6 +1,12 @@
 ### Hi, I'm Manuel Villagordo 👋
 
-I'm 43 years old and 6 working with php and Mysql.
+### I'm 43 years old and 6 working with php and Mysql. 
+### 🔭 I’m currently working on Telfy Telecom as php and mysql developer and I’m currently learning React, Node, TypeScript and Mongodb. :heart_eyes:
+ 
+
+
+
+
 
 <!--
 **mnuhell/mnuhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
