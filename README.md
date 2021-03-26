@@ -9,6 +9,8 @@
 
 #### If you think a project and need a developer contact with me :muscle:
 
+<span style="background-color: red">[twitter](https://twitter.com/manufit78)</span>
+<span style="background-color: red">[linkedIn](https://linkedin.com/in/manu78)</span>
 
 
 
